@@ -1,0 +1,10 @@
+[
+    {"id":1, "nombre":"predator white", "cantidad":1,  "precio":19000, "stock":10, "img":"./assets/img/zapatilla1.webp", "alt":"zapatillas blancas"},
+    {"id":2, "nombre":"predator black", "cantidad":1,  "precio":19000, "stock":10, "img":"./assets/img/zapatilla2.webp", "alt":"zapatillas negras"},
+    {"id":3, "nombre":"raptor red", "cantidad":1,  "precio":22000, "stock":10, "img":"./assets/img/zapatilla3.webp", "alt":"zapatillas rojas"},
+    {"id":4, "nombre":"raptor green", "cantidad":1,  "precio":22000, "stock":10, "img":"./assets/img/zapatilla4.webp", "alt":"zapatillas verdes"},
+    {"id":5, "nombre":"raptor grey", "cantidad":1, "precio": 22000,"stock": 10,"img":"./assets/img/zapatilla5.webp", "alt":"zapatillas grises"},
+    {"id":6, "nombre":"sirius black", "cantidad":1, "precio": 17000,"stock": 10,"img":"./assets/img/zapatilla6.webp", "alt":"zapatillas negras"},
+    {"id":7, "nombre":"sirius white", "cantidad":1, "precio": 17000,"stock": 10,"img":"./assets/img/zapatilla7.webp", "alt":"zapatillas blanca y negro"},
+    {"id":8, "nombre":"sirius grey", "cantidad":1, "precio": 17000,"stock": 10,"img":"./assets/img/zapatilla8.webp", "alt":"zapatillas blanca y gris"}
+]
